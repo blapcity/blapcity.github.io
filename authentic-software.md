@@ -5,7 +5,6 @@ nav_order: 2
 ---
 ## Objective
 Verify that the software you are installing has not been tampered with.
-
 ## Overview
 We will be using PGP encryption, terminal, and a web browser. 
 
