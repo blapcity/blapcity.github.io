@@ -10,7 +10,9 @@ Jump to your OS
 
 ## Mac
 
-'cd ~/Downloads/'
+```
+cd ~/Downloads/
+```
 
 
 
