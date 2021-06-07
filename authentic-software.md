@@ -4,11 +4,11 @@ has_children: false
 nav_order: 2
 ---
 Jump to your OS 
--Mac
+-Mac [link](#mac)
 -Windows
 -Linux
 
-# Another page
+## Mac
 
 Test this
 
