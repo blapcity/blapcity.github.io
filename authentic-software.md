@@ -10,7 +10,8 @@ Jump to your OS
 
 ## Mac
 
-Test this
+'cd ~/Downloads/'
+
 
 
 blah
