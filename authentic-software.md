@@ -3,8 +3,11 @@ title: Software Authentication
 has_children: false
 nav_order: 2
 ---
-## Objective:
-Verify that the software you are installing has not been tampered with and comes from the developer
+## Objective
+Verify that the software you are installing has not been tampered with.
+
+## Overview
+We will be using PGP encryption, terminal, and a web browser. 
 
 Jump to your OS 
 - [Mac](#mac)
