@@ -3,7 +3,7 @@ title: Software Authentication
 has_children: false
 nav_order: 2
 ---
-# Objective:
+## Objective:
 Verify that the software you are installing has not been tampered with and comes from the developer
 
 Jump to your OS 
@@ -40,5 +40,5 @@ cd ~/Downloads/
 
 
 
-
+balls
 ## Linux
