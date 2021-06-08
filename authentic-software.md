@@ -10,6 +10,9 @@ A digital signature certifies and timestamps a document. If the document is subs
 
 To create and verify signatures we will be using a public/private keypair.
 
+![PubPrivKeypair](images/pubpriv_diagram.png)
+
+
 Jump to your OS 
 - [Mac](#mac)
 - [Windows](#windows)
