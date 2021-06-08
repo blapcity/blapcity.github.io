@@ -6,7 +6,9 @@ nav_order: 2
 ## Objective
 Verify that the software you are installing has not been tampered with.
 ## Overview
-We will be using PGP encryption, terminal, and a web browser. 
+A digital signature certifies and timestamps a document. If the document is subsequently modified in any way, a verification of the signature will fail. A digital signature can serve the same purpose as a hand-written signature with the additional benefit of being tamper-resistant.
+
+To create and verify signatures we will be using a public/private keypair.
 
 Jump to your OS 
 - [Mac](#mac)
