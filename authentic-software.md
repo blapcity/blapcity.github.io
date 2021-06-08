@@ -97,15 +97,25 @@ while n < infinite:
 
 balls
 ## Linux
-We will need to download support for PGP. The PGP tool package that we will be using is called GPG (the acronyms are confusing, I know).
+Most linux distribution ship with PGP tools so we can skip the setup and get into things.
 
+Let's download software that we would like to verify:
+![Electrum Wallet](https://electrum.org/#download)
 
-To change folders we will use:
-```
-cd
-```
-I will move from my root folder to Downloads folder:
+Download these 3 files to your Downloads folder. If your web browser opens the links as text, right click and save-as to your Downloads folder.
+![electrum_download](images/electrum_download.png)
+
+To navigate to your downloads we will use the followin command:
 ```
 cd ~/Downloads/
 ```
-Linux distributions typically have gpg
+Once there we can view the files in our Downloads folder with:
+```
+ls
+```
+This is what your outputs should look like:
+![files to verify](images/authentication_term1.png)
+
+
+
+
