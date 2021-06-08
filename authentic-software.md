@@ -97,7 +97,8 @@ while n < infinite:
 
 balls
 ## Linux
-The first thing we will cover is navigating using terminal.
+We will need to download support for PGP. The PGP tool package that we will be using is called GPG (the acronyms are confusing, I know).
+
 
 To change folders we will use:
 ```
@@ -107,3 +108,4 @@ I will move from my root folder to Downloads folder:
 ```
 cd ~/Downloads/
 ```
+Linux distributions typically have gpg
