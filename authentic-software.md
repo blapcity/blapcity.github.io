@@ -97,3 +97,13 @@ while n < infinite:
 
 balls
 ## Linux
+The first thing we will cover is navigating using terminal.
+
+To change folders we will use:
+```
+cd
+```
+I will move from my root folder to Downloads folder:
+```
+cd ~/Downloads/
+```
