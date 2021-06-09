@@ -116,6 +116,15 @@ ls
 This is what your outputs should look like:
 ![files to verify](images/authentication_term1.png)
 
+So we have the following files:
+```
+electrum-4.1.2-x86_64.AppImage   # this is software we're verifying was signed by ThomasV
+electrum-4.1.2.x86_64.AppImage.asc # this is the signature file
+ThomasV.asc # this is Thomas's public key that he shared. It is crucial that you download this from a trusted source. Best practice is to cross reference the fingerprint of the signature with two or more sources. Developers will list keys these fingerprints on places like twitter, personal websites, keybase, etc.
+```
+
+
+
 
 
 
